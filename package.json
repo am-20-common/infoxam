@@ -1,0 +1,14 @@
+{
+  "name": "infoxam",
+  "version": "1.0.0",
+  "description": "Infoxam is a static site made to spread the information that applies to AM-201 and AM-202",
+  "scripts": {
+    "dev": "vuepress dev docs",
+    "build": "vuepress build docs"
+  },
+  "author": "Timur Svoboda",
+  "license": "ISC",
+  "devDependencies": {
+    "vuepress": "^1.8.0"
+  }
+}
