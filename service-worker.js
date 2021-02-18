@@ -27,7 +27,7 @@ self.addEventListener('message', (event) => {
 self.__precacheManifest = [
   {
     "url": "404.html",
-    "revision": "2d310306edb18a4ab169e819dc16a963"
+    "revision": "c1ba839ae8e54e1535fc251860c2a807"
   },
   {
     "url": "apple-touch-icon.png",
