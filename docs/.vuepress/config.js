@@ -1,7 +1,7 @@
 module.exports =  {
     base: '/infoxam/',
     title: 'Infoxam',
-    description: 'Infoxam is a static site made to spread the information that applies to AM-201 and AM-202',
+    description: 'Infoxam - это веб-приложение для распространения информациия касательно AM-201 и AM-202.',
     head: [
         // Icons
         ['link', { rel: 'icon', href: 'favicon.svg' }],
