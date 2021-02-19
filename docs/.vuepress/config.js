@@ -46,7 +46,8 @@ module.exports =  {
                     '/computer-logic.md',
                     '/programming.md',
                     '/web-programming.md',
-                    '/physics.md'
+                    '/physics.md',
+                    '/pe.md'
                 ]
             }
         ]
