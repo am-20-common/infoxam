@@ -32,7 +32,6 @@ module.exports =  {
                 collapsable: false,
                 children: [
                     '/',
-                    '/subjects-schedule',
                     '/call-schedule'
                 ]
             },
