@@ -26,13 +26,13 @@ module.exports =  {
         ]
     ],
     themeConfig: {
+        logo: 'favicon.svg',
         sidebar: [
             {
                 title: 'Общее',
                 collapsable: false,
                 children: [
                     '/',
-                    '/subjects-schedule',
                     '/call-schedule'
                 ]
             },
