@@ -6,5 +6,7 @@
 
 Почта: <martynyuk@opu.ua>
 
+Почта для ДЗ и РГР: <anmartynyuk@ukr.net>
+
 Сслыки:
 - [Страница на сайте политеха](https://opu.ua/ru/staff/32551)
