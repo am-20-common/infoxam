@@ -26,6 +26,7 @@ module.exports =  {
         ]
     ],
     themeConfig: {
+        logo: 'favicon.svg',
         sidebar: [
             {
                 title: 'Общее',
